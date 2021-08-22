@@ -18,5 +18,5 @@ This project automates various machine learning tasks by providing a user friend
 # 5. Various Use cases
 ![Various Use cases](https://github.com/Abhishekmallik/AutoAI/blob/master/Static%20images/6.png?raw=true)
 
-# 6. Pltos
+# 6. Plots
 ![Plots](https://github.com/Abhishekmallik/AutoAI/blob/master/Static%20images/7.png?raw=true)
